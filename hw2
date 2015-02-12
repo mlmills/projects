@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google</title>
+  </head>
+  <body>
+    <header>
+      <h1>Google</h1>
+    </header>
+    <nav>
+      <ul>
+        <li>+You</li>
+        <li>Mail</li>
+        <li>Images</li>
+       <li>Sign in</li>
+     </ul>
+    </nav>
+    <main>
+      <section>Search</section>
+      <h2>Google Search</h2>
+      <h2>I'm Feeling Lucky</h2>
+    </main>
+  <footer>
+    <nav>
+      <ul>
+        <li>Advertising</li>
+        <li>Business</li>
+        <li>About</li>
+        <li>Privacy</li>
+         <li>Terms</li>
+        <li>Settings</li>
+      </ul>
+    </nav>
+  </footer>
+  </body>
+</html>
